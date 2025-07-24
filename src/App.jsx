@@ -83,7 +83,7 @@ function App() {
           <p>Calculate your simple Interest Easily </p>
           <div className='rounded bg-warning py-5 text-center'>
             <h1> ₹ {interest} </h1>
-            <p className='fw-bolder'> Total simple interest </p>
+            <p className='fw-bolder'> Total Simple interest </p>
           </div>
           <form className='mt-5'>
             {/* principle amount */}
